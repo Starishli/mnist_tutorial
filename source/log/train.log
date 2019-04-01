@@ -240,3 +240,7 @@
     Average train accuracy 99.44% 
     Average test accuracy 98.94%
     ============================
+2019-03-31 19:18:59,828 Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-03-31 19:18:59,828 Invalid alias: The name more can't be aliased because it is another magic command.
+2019-03-31 19:18:59,828 Invalid alias: The name less can't be aliased because it is another magic command.
+2019-03-31 19:18:59,829 Invalid alias: The name man can't be aliased because it is another magic command.
