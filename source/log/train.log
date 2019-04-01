@@ -244,3 +244,31 @@
 2019-03-31 19:18:59,828 Invalid alias: The name more can't be aliased because it is another magic command.
 2019-03-31 19:18:59,828 Invalid alias: The name less can't be aliased because it is another magic command.
 2019-03-31 19:18:59,829 Invalid alias: The name man can't be aliased because it is another magic command.
+2019-04-01 16:01:30,073 
+
+    ============================
+    Epoch 1
+    train accuracy 93.48%
+    test accuracy 94.07%
+    ============================
+2019-04-01 16:03:28,787 
+
+    ============================
+    Epoch 2
+    train accuracy 96.15%
+    test accuracy 96.37%
+    ============================
+2019-04-01 16:07:12,219 
+
+    ============================
+    Epoch 3
+    train accuracy 96.81%
+    test accuracy 97.34%
+    ============================
+2019-04-01 16:10:30,017 
+
+    ============================
+    Epoch 4
+    train accuracy 97.30%
+    test accuracy 97.60%
+    ============================
